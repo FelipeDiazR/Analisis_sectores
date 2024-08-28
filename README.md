@@ -21,7 +21,7 @@
 <details>
    <summary> Código fuente python - informe Industrias </summary>
 
-  ### Código Industrias
+ >  ### Código Industrias
 
   Aquí puedes agregar más información, listas, o incluso código.
 
@@ -83,7 +83,7 @@
 <details>
    <summary> Código fuente python - informe Países </summary>
 
-  ### Código Países
+ >  ### Código Países
 
   
 
