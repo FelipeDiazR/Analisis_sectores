@@ -1,5 +1,6 @@
-# Analisis_sectores
+# Exploración de Datos Sectoriales e Industriales con Python
 
+Este repositorio ofrece un análisis exhaustivo del valor de mercado a nivel global, desglosando la distribución de valor por país e industria, así como la relación entre la propiedad y el valor en el mercado. Incluye visualizaciones y datos sobre la distribución de participación por región, el ranking de las 10 principales empresas por valor en el mercado, y los 10 países líderes en valor de mercado. Además, examina la distribución del valor en el mercado por industria y explora cómo la propiedad afecta dicho valor. Este proyecto proporciona una visión integral para entender las dinámicas del mercado a través de diferentes dimensiones.
 
 
 
@@ -19,9 +20,9 @@
 
 
 <details>
-   <summary> Código fuente python - informe Industrias </summary>
+   <summary> Código fuente python </summary>
 
- >  ### Código Industrias
+ >  ### Código Fuente Análisis por Industrias
 
   Aquí puedes agregar más información, listas, o incluso código.
 
@@ -83,7 +84,8 @@
 <details>
    <summary> Código fuente python - informe Países </summary>
 
- >  ### Código Países
+ >  ### Código Fuente Análisis por Países
+
 
   
 
